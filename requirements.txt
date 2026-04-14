@@ -3,3 +3,6 @@ pandas
 scikit-learn
 xgboost
 joblib
+opencv-python
+numpy
+ultralytics
